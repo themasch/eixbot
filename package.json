@@ -1,0 +1,32 @@
+{
+  "name": "eixbot",
+  "version": "1.0.0",
+  "description": "telegram bot to call eix",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.12.0",
+    "node-telegram-bot-api": "^0.21.1",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themasch/eixbot.git"
+  },
+  "keywords": [
+    "eix",
+    "gentoo",
+    "telegram",
+    "api",
+    "bot"
+  ],
+  "author": "Mark Schmale <masch@masch.it>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themasch/eixbot/issues"
+  },
+  "homepage": "https://github.com/themasch/eixbot#readme"
+}
